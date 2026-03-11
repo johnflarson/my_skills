@@ -1,0 +1,5 @@
+# Reference files (templates, PDFs, examples)
+references/
+
+# Local config overrides
+*.local.json
